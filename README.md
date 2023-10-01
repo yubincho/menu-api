@@ -1,17 +1,17 @@
 # menu-api
 
 기본 CRUD 구현.
-typescript를 공부하기 위해 해외 사이트를 참고했습니다. 
+
 
 
  ### 주된 사용 기술
- * node.js  
+ * node.js - express 
  * typescript
- * mysql 
+ * mysql - Mysql ConnectionPool 사용( CRUD api -> RowQuery를 사용)
 
 
 ### 구조
-![image](https://github.com/yubincho/menu-api/assets/58660769/8708c17a-cdb8-42ea-aed9-e747c88bd00e)
+![image](https://github.com/yubincho/menu-api/assets/58660769/2134bcdf-744f-4e5b-8cf8-234f0ad62903)
 
 
 
